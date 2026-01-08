@@ -45,6 +45,7 @@ Research Interests: *Medical AI, Clinical Summarization, Multi-Agent Systems, an
   *Oct 2025 – Present*  
   **Laboratory:** [Takayuki Ito Laboratory](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)  
   *Graduate School of Informatics*  
+  **Title:** DoGS SPRING Program Fellow  
   - Research on multi-agent reinforcement learning, automated negotiation, and computational mechanism design for collective intelligence systems.
 
 - **M.Sc. in Informatics** — *Kyoto University*  
@@ -124,6 +125,8 @@ Represented China in the Microsoft Student Ambassador Asia program. Engaged with
 
 ## 🏆 Awards & Scholarships
 
+- 🎓 **DoGS SPRING Program Fellow (Kyoto University, Division of Graduate Studies)**  
+  Selected under JST’s “Support for Pioneering Research Initiated by the Next Generation (SPRING)” scheme; provides research incentive grants and support for outstanding doctoral students.
 - 🧪 **Second Prize**, China Chemistry Olympiad (Preliminary)  
   [Certificate](https://raw.githubusercontent.com/dnimo/img/master/化学奥林匹克.jpeg)  
 - 🎓 **Nishimura International Scholarship Foundation**, Spring 2023 Scholar  
