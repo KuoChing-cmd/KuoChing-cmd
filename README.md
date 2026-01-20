@@ -66,29 +66,6 @@ I aim to build *trustworthy, interpretable, and resilient AI systems* that suppo
   This work was conducted at the [Medical Informatics Planning Division](https://medinfo.kuhp.kyoto-u.ac.jp/members/),  
   addressing the limited context window of 7B-scale models through **dynamic retrieval** and **TF-IDF-based alignment** strategies.
 
-- 🤖 **Ethically-Constrained Multi-Agent Reinforcement Learning for Intelligent Healthcare Systems (Takayuki Ito Laboratory)** —  
-  My current PhD research at the [Takayuki Ito Laboratory](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)  
-  explores the **Kallipolis Medical Republic model**, a dynamic multi-agent framework inspired by control theory,  
-  social contract philosophy, and large language model cognition.  
-  This work conceptualizes hospital systems as **complex adaptive organizations**,  
-  where autonomous agents (doctors, nurses, administrators, patients) coordinate through ethical communication mechanisms  
-  and reinforcement learning under **semantic constraints** known as the *Holy Code*.  
-  The framework integrates LLM-based action generation with a critic that jointly reasons over both  
-  operational outcomes and moral consistency—achieving context-aware, interpretable, and safe decision-making.
-
-- 🔍 **Future Work** —  
-  I plan to extend this semantic reinforcement framework toward **multi-modal clinical reasoning**  
-  by integrating structured EHR data, imaging, and text into a unified decision space.  
-  In parallel, I aim to investigate **adaptive value systems** for multi-agent negotiation and governance,  
-  enabling AI systems to balance efficiency, fairness, and ethical stability in complex healthcare environments.  
-  Ultimately, this research envisions a new paradigm of *AI governance as an evolving moral-technical ecosystem*.
-
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <img src="assets/research_overview.png" width="70%" alt="Research overview (placeholder)">
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ---
 
 ## 💼 Work Experience
